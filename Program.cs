@@ -26,25 +26,27 @@ string[] inputArray = { "hello", "2", "world", ":-)" };
 // string[] InputArray = { "Russia", "Denmark", "Kazan" };
 
 int FindCount(int N)
-    {
-        for (int i = 0; i < inputArray.Length; i++)
-            if (inputArray[i].Length <= N) count++;
-        return count;
-    }
+{
+    for (int i = 0; i < inputArray.Length; i++)
+        if (inputArray[i].Length <= N) count++;
+    return count;
+}
 
-    string[] NewArray(string[] inputArray)
+string[] NewArray(string[] inputArray)
+{
+    int j = 0;
+    string[] result = new string[count];
+    for (int i = 0; i < inputArray.Length; i++)
     {
-        int j = 0;
-        string[] result = new string[count];
-        for (int i = 0; i < inputArray.Length; i++)
+        if (inputArray[i].Length <= N)
         {
-            if (inputArray[i].Length <= N)
-            {
-                result[j] = inputArray[i];
-                j++;
-            }
+            result[j] = inputArray[i];
+            j++;
         }
-
     }
+    Console.WriteLine();
+    Console.WriteLine("[" + string.Join(", ", result) + "]" + "\n");
+    return result;
+}
 
 
