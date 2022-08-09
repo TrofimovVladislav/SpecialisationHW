@@ -32,5 +32,19 @@ int FindCount(int N)
         return count;
     }
 
+    string[] NewArray(string[] inputArray)
+    {
+        int j = 0;
+        string[] result = new string[count];
+        for (int i = 0; i < inputArray.Length; i++)
+        {
+            if (inputArray[i].Length <= N)
+            {
+                result[j] = inputArray[i];
+                j++;
+            }
+        }
+
+    }
 
 
