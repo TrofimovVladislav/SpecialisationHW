@@ -25,28 +25,36 @@ string[] inputArray = { "hello", "2", "world", ":-)" };
 // string[] InputArray = { "1234", "1567", "-2", "computer science" };
 // string[] InputArray = { "Russia", "Denmark", "Kazan" };
 
-int FindCount(int N)
+void FinalVerificationWork()
 {
-    for (int i = 0; i < inputArray.Length; i++)
-        if (inputArray[i].Length <= N) count++;
-    return count;
-}
-
-string[] NewArray(string[] inputArray)
-{
-    int j = 0;
-    string[] result = new string[count];
-    for (int i = 0; i < inputArray.Length; i++)
+    int FindCount(int N)
     {
-        if (inputArray[i].Length <= N)
-        {
-            result[j] = inputArray[i];
-            j++;
-        }
+        for (int i = 0; i < inputArray.Length; i++)
+            if (inputArray[i].Length <= N) count++;
+        return count;
     }
-    Console.WriteLine();
-    Console.WriteLine("[" + string.Join(", ", result) + "]" + "\n");
-    return result;
+
+    string[] NewArray(string[] inputArray)
+    {
+        int j = 0;
+        string[] result = new string[count];
+        for (int i = 0; i < inputArray.Length; i++)
+        {
+            if (inputArray[i].Length <= N) 
+            {
+                result[j] = inputArray[i];
+                j++;
+            }
+        }
+
+        Console.WriteLine();
+        Console.WriteLine("[" + string.Join(", ", result) + "]" + "\n");
+        return result;
+    }
+
+    FindCount(N);
+    string[] outPutArray = NewArray(inputArray);
 }
 
+FinalVerificationWork();
 
