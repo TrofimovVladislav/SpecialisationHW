@@ -1,0 +1,45 @@
+C:\GB\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.exe
+C:\GB\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.deps.json
+C:\GB\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.runtimeconfig.json
+C:\GB\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.dll
+C:\GB\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.pdb
+C:\GB\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.csproj.AssemblyReference.cache
+C:\GB\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.AssemblyInfoInputs.cache
+C:\GB\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.AssemblyInfo.cs
+C:\GB\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.csproj.CoreCompileInputs.cache
+C:\GB\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.dll
+C:\GB\SpecialisationHW\obj\Debug\net6.0\refint\SpecialisationHW.dll
+C:\GB\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.pdb
+C:\GB\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.genruntimeconfig.cache
+C:\GB\SpecialisationHW\obj\Debug\net6.0\ref\SpecialisationHW.dll
+D:\VSC\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.exe
+D:\VSC\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.deps.json
+D:\VSC\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.runtimeconfig.json
+D:\VSC\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.dll
+D:\VSC\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.pdb
+D:\VSC\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.csproj.AssemblyReference.cache
+D:\VSC\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.AssemblyInfoInputs.cache
+D:\VSC\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.AssemblyInfo.cs
+D:\VSC\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.csproj.CoreCompileInputs.cache
+D:\VSC\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.dll
+D:\VSC\SpecialisationHW\obj\Debug\net6.0\refint\SpecialisationHW.dll
+D:\VSC\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.pdb
+D:\VSC\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.genruntimeconfig.cache
+D:\VSC\SpecialisationHW\obj\Debug\net6.0\ref\SpecialisationHW.dll
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.exe
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.deps.json
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.runtimeconfig.json
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.dll
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\bin\Debug\net6.0\SpecialisationHW.pdb
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.csproj.AssemblyReference.cache
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.AssemblyInfoInputs.cache
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.AssemblyInfo.cs
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.csproj.CoreCompileInputs.cache
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.dll
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\obj\Debug\net6.0\refint\SpecialisationHW.dll
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.pdb
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\obj\Debug\net6.0\SpecialisationHW.genruntimeconfig.cache
+C:\Users\twlad\OneDrive\Рабочий стол\SpecialisationHW\obj\Debug\net6.0\ref\SpecialisationHW.dll
