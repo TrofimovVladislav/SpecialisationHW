@@ -25,7 +25,12 @@ string[] inputArray = { "hello", "2", "world", ":-)" };
 // string[] InputArray = { "1234", "1567", "-2", "computer science" };
 // string[] InputArray = { "Russia", "Denmark", "Kazan" };
 
-
+int FindCount(int N)
+    {
+        for (int i = 0; i < inputArray.Length; i++)
+            if (inputArray[i].Length <= N) count++;
+        return count;
+    }
 
 
 
