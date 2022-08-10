@@ -37,6 +37,7 @@ void FinalVerificationWork()
     string[] NewArray(string[] inputArray)
     {
         int j = 0;
+        int m = count;
         string[] result = new string[count];
         for (int i = 0; i < inputArray.Length; i++)
         {
